@@ -42,6 +42,7 @@ A avaliação consiste nas seguintes etapas:
 - **Bibliotecas**:
   - Pandas
   - Matplotlib
+  - Numpy
 
 ## Instruções
 
