@@ -1,7 +1,7 @@
 # Introdução-Ciência-de-Dados
 # Avaliação 2 - Processamento com Python
 
-Este repositório contém o código e a análise de dados realizada para a Avaliação 2 da disciplina de Processamento de Dados com Python.
+Este repositório contém o código e a análise de dados realizada para a Avaliação 2 da disciplina de Ciência de Dados com Python.
 
 ## Produtos Analisados
 
